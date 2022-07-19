@@ -15,3 +15,4 @@ def show(id):
         'native_habitat': reptile.native_habitat,
         'fun_fact':reptile.fun_fact
     }
+    return reptile_dict 
